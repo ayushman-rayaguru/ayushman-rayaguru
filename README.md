@@ -26,7 +26,7 @@
     <a href="https://isocpp.org/" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cpp" width="40" height="40"/> </a> 
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="mssql" width="48" height="48"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v1674d466be3b1154327dd11cf186e748303b1e92ae31ff35df0f5192fbd777ea/cloud/images/cloud-logo.svg" alt="cpp" width="100" height="40"/> </a> 
+    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v1674d466be3b1154327dd11cf186e748303b1e92ae31ff35df0f5192fbd777ea/cloud/images/cloud-logo.svg" alt="cpp" width="100" height="60"/> </a> 
     
 </p>
 
