@@ -32,7 +32,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.codewars.com/users/ayushman-rayaguru"><img src="https://www.codewars.com/users/ayushman-rayaguru/badges/large"/></a>
+<a href = "https://www.codewars.com/users/ayushman-rayaguru"><img src="https://www.codewars.com/users/ayushman-rayaguru/badges/small"/></a>
 <a href = "https://in.linkedin.com/in/ayushman-rayaguru-487b17188"/></a>
 <a href = "https://twitter.com/ayush_rayaguru"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ayush_rayaguru/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
