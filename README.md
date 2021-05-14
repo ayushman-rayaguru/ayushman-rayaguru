@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" height="auto" src="https://github.com/ayushman-rayaguru/ayushman-rayaguru/blob/main/Github/mix.png?raw=true" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/ayushman-rayaguru/ayushman-rayaguru/blob/main/Github/mix.png?raw=true" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayushman</h1>
 <h3 align="center">I'm a Data Science Enthusiast from India.</h3>
