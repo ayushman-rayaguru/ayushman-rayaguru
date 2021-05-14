@@ -31,7 +31,7 @@
     <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="sns" width="100" height="60"/> </a>
     <a href="https://plotly.com/" target="_blank"> <img src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" alt="plotly" width="100" height="60"/> </a>
     <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit" width="100" height="60"/> </a>
-    <a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="100" height="40"/> </a>
+    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
     
 </p>
 
