@@ -4,6 +4,7 @@
 
 <h1 align="center">Namaste <img src="https://i.pinimg.com/originals/92/59/8f/92598f86d39965bbc493ce8b3f141d2d.gif" width="45px">, I'm Ayushman</h1>
 <h3 align="center">I'm a Data Science Enthusiast from India.</h3>
+<h5 align="center">Graduand at Pune Institute of Computer Technology.</h5>
 
 
 ## 🙋‍♂️ About Me
