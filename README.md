@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/ayushman-rayaguru/ayushman-rayaguru/blob/main/Github/mix.png?raw=true" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayushman</h1>
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/92/59/8f/92598f86d39965bbc493ce8b3f141d2d.gif" width="30px">, I'm Ayushman</h1>
 <h3 align="center">I'm a Data Science Enthusiast from India.</h3>
 
 
