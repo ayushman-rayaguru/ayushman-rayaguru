@@ -30,7 +30,7 @@
     <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="pyplot" width="100" height="60"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="sns" width="100" height="60"/> </a>
     <a href="https://plotly.com/" target="_blank"> <img src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" alt="plotly" width="100" height="60"/> </a>
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit" width="100" height="60"/> </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit" width="100" height="40"/> </a>
     
 </p>
 
