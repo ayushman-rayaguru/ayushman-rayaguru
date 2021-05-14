@@ -26,7 +26,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cpp" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v1674d466be3b1154327dd11cf186e748303b1e92ae31ff35df0f5192fbd777ea/cloud/images/cloud-logo.svg" alt="cpp" width="100" height="60"/> </a>
+    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v1674d466be3b1154327dd11cf186e748303b1e92ae31ff35df0f5192fbd777ea/cloud/images/cloud-logo.svg" alt="cpp" width="100" height="80"/> </a>
     <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="pyplot" width="100" height="60"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="sns" width="100" height="60"/> </a>
     <a href="https://plotly.com/" target="_blank"> <img src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" alt="plotly" width="100" height="60"/> </a>
