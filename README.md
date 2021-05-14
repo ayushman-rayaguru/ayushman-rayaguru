@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/ayushman-rayaguru/ayushman-rayaguru/blob/main/Github/mix1.png?raw=true" height="175px"/></a>
+<a href="#"><img width="40%" height="auto" src="https://github.com/ayushman-rayaguru/ayushman-rayaguru/blob/main/Github/colourful-illustration-programmer-working_23-2148281410-removebg-preview.png?raw=true" height="175px"/></a>
 
 <h1 align="center">Namaste <img src="https://i.pinimg.com/originals/92/59/8f/92598f86d39965bbc493ce8b3f141d2d.gif" width="45px">, I'm Ayushman</h1>
 <h3 align="center">I'm a Data Science Enthusiast from India.</h3>
