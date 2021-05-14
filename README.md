@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[DBA in MS SQL SERVER](https://nopageayush.com/)**
+- 🔭 I’m currently working on **[TSQL queries in MS SQL SERVER](https://nopageayush.com/)**
 
 - 🌱 I’m currently learning **Computer Networking**
 
