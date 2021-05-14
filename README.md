@@ -46,7 +46,7 @@
 <a href = "https://in.linkedin.com/in/ayushman-rayaguru-487b17188"/></a>
 <a href = "https://www.hackerrank.com/profile/rayaguru_a"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" width="40" height="40" /></a>
 <a href = "https://www.kaggle.com/ayushmanrayaguru"><img src="https://www.kaggle.com/static/images/site-logo.png" width="100" height="40"/></a>
-<a href = "https://www.datacamp.com/profile/ayushmanrayaguru"><img src="https://www.datacamp.com/datacamp.png?v=20102020" width="100" height="50"/></a>
+<a href = "https://www.datacamp.com/profile/ayushmanrayaguru"><img src="https://assets.foleon.com/eu-west-2/uploads-7e3kk3/40444/logo-green-dc.0612e4e7cc00.png" width="50" height="100"/></a>
 <a href = "https://twitter.com/ayush_rayaguru"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ayush_rayaguru/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
