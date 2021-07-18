@@ -15,7 +15,7 @@
 
 - 👬 I’m looking to collaborate on **Data Science Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ayushmanrayaguru.weebly.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ayushman-rayaguru.github.io/portfolio/)**
 
 - 📫 How to reach me **ayushmanrayaguru@outlook.com**
 
