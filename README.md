@@ -2,7 +2,7 @@
 <a href="#"><img width="40%" height="auto" src="https://github.com/ayushman-rayaguru/ayushman-rayaguru/blob/main/Github/colourful-illustration-programmer-working_23-2148281410-removebg-preview.png?raw=true" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F794392821758152571%2F&psig=AOvVaw03IpqOzjFZFjFxdregELWf&ust=1627934744392000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCNif6NPPkPICFQAAAAAdAAAAABAR" width="45px">, I'm Ayushman</h1>
+<h1 align="center">Hi <img src="https://64.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gifv" width="45px">, I'm Ayushman</h1>
 <h3 align="center">I'm a Data Science Enthusiast</h3>
 <h4 align="center">Graduand at Pune Institute of Computer Technology</h4>
 
