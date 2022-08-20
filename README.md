@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Tableau, SQL, Python(https://nopageayush.com/)**
+- 🔭 I’m currently working on **Tableau, SQL, Python**
 
 - 🌱 I’m currently learning **Advance Excel & SQL**
 
