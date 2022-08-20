@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[TSQL queries in MS SQL SERVER](https://nopageayush.com/)**
+- 🔭 I’m currently working on **Tableau, SQL, Python(https://nopageayush.com/)**
 
-- 🌱 I’m currently learning **Computer Networking**
+- 🌱 I’m currently learning **Advance Excel & SQL**
 
 - 👬 I’m looking to collaborate on **Data Science Projects**
 
